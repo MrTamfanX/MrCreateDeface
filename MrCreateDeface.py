@@ -2,10 +2,10 @@
 #######################
 #  https://github.com/MrTamfanX/MrDeface #
 #######################
-mess = ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"""
-MrCreate Script Deface
-MrTamfanX
-MrTamfanX Cyber Team
+mess = """▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+      MrCreate Script Deface
+           MrTamfanX
+       MrTamfanX Cyber Team
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"""
 
 print mess
