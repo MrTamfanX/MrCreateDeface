@@ -9,9 +9,9 @@ mess = """======================================================
 ======================================================"""
 
 print mess
-print "Author    : MrTamfanX"
+print "Author : MrTamfanX"
 print "MyTeam : MrTamfanX Cyber Team"
-print "Contact  : mastergc64@gmail.com"
+print "Contact: mastergc64@gmail.com"
 title = raw_input("Masukan Judul Title: ")
 heading = raw_input("Author/Hacked By: ")
 imagelink = raw_input("Masukan Link Gambar JPG/PNG (tengah): ")
@@ -129,6 +129,6 @@ fo.write(messagescript16)
 
 print "Script Berhasil Di buat!"
 print "Contact : mastergc64@gmail.com"
-print "Author   : MrTamfanX
+print "Author   : MrTamfanX"
 
 fo.close()
